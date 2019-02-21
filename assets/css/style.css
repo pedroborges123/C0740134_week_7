@@ -1,0 +1,28 @@
+.img, .form-validator{
+    border: 1px solid #ccc;
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+.form-validator{
+    padding: 15px;
+    height: auto;
+}
+
+.img .current{
+    display: block;
+    width: 900px;
+    height: 600px;
+}
+
+.img .secondary{
+    display: none;
+    width: 900px;
+    height: 600px;
+}
+
+.error{
+    color: red;
+    display: none;
+}
